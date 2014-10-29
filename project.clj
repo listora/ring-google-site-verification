@@ -1,4 +1,4 @@
-(defproject listora/ring-google-site-verification "0.1.0"
+(defproject listora/ring-google-site-verification "0.2.0-SNAPSHOT"
   :description "Ring middleware for returning site verification files"
   :url "https://github.com/listora/ring-google-site-verification"
   :license {:name "The MIT License"
